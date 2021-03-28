@@ -1,3 +1,3 @@
 # Cryptocurrencies
 
-Using unsupervised learning to analyze bitcoin.
+Using unsupervised machine learning to analyze bitcoin.
